@@ -1,0 +1,30 @@
+{'Command': {'CommandId': '186e5a76-2c22-40ca-a541-7707a092a748', 'DocumentName': 'AWS-RunRemoteScript', 'DocumentVersion': '', 'Comment': '', 'ExpiresAfter': datetime.datetime(2019,
+        9,
+        21,
+        13,
+        2,
+        33,
+        200000, tzinfo=tzlocal()), 'Parameters': {'commandLine': ['main.py'
+            ], 'executionTimeout': ['3600'
+            ], 'sourceInfo': ['{
+                    "owner": "micahj",
+                    "repository": "try-aws-runremotescript-py"
+                }'
+            ], 'sourceType': ['GitHub'
+            ], 'workingDirectory': [''
+            ]
+        }, 'InstanceIds': ['i-032995e31f28226b7'
+        ], 'Targets': [], 'RequestedDateTime': datetime.datetime(2019,
+        9,
+        21,
+        11,
+        2,
+        33,
+        200000, tzinfo=tzlocal()), 'Status': 'Pending', 'StatusDetails': 'Pending', 'OutputS3BucketName': '', 'OutputS3KeyPrefix': '', 'MaxConcurrency': '50', 'MaxErrors': '0', 'TargetCount': 1, 'CompletedCount': 0, 'ErrorCount': 0, 'DeliveryTimedOutCount': 0, 'ServiceRole': '', 'NotificationConfig': {'NotificationArn': '', 'NotificationEvents': [], 'NotificationType': ''
+        }, 'CloudWatchOutputConfig': {'CloudWatchLogGroupName': '', 'CloudWatchOutputEnabled': False
+        }
+    }, 'ResponseMetadata': {'RequestId': '26114340-a3d2-45de-aebf-b75ebe684bb4', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '26114340-a3d2-45de-aebf-b75ebe684bb4', 'content-type': 'application/x-amz-json-1.1', 'content-length': '877', 'date': 'Fri,
+            20 Sep 2019 23: 02: 32 GMT'
+        }, 'RetryAttempts': 0
+    }
+}
