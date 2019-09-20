@@ -1,0 +1,1 @@
+print("Hello from main_b.py hopefully being execute inside an instance")
